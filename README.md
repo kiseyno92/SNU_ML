@@ -1,5 +1,5 @@
 # SNU_ML
-### It is Exercise codes of SeungHyun Kang in SNU bigdata Academy
+### There are Exercise codes of SeungHyun Kang in SNU bigdata Academy
 
 * Seoul National Univercity Bigdata Academy
   2017.07.10 ~ 2017.08.04
